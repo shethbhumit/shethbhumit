@@ -1,7 +1,6 @@
 - Hi, I’m Bhumit Sheth
 - I’m interested in Statistics & Data Science.
 - I’m always learning SQL & Machine Learning
-- I love creating Dashboards!
 - Reach out to me on 
     - <img width="17" src="https://i.stack.imgur.com/gVE0j.png"> LinkedIn: [Bhumit Sheth](https://www.linkedin.com/in/bhumitsheth/) <br>
     - <img width="17" src="https://camo.githubusercontent.com/a6d8a862aecb6411e963408e9b3c7666ab357cdfecc14a3a13645eb489688cc8/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c5f6f6c642e737667"> Email: contact.bhumit@gmail.com
