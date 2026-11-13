@@ -1,5 +1,7 @@
 ## Hi, I'm Bhumit Sheth 👋
 
+![Profile views](https://komarev.com/ghpvc/?username=shethbhumit&label=Profile%20views&color=9f7be1&style=flat)
+
 **Analytics engineer at heart, working on a data engineering & analytics team at a consumer fintech.**
 I build the layer between raw data and decisions: master tables and datamarts that act as a single source of truth, governed metric definitions, and tested pipelines that people (and AI agents) can trust.
 
